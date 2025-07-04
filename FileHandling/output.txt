@@ -1,0 +1,2 @@
+BufferedWriter is more efficient for large text.
+This is the second line.
